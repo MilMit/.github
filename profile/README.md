@@ -2,26 +2,27 @@
 
 # MilMit
 
-### Practical software · Open technology · Digital products
+### Open-source software, developer tools & digital products
 
-**MilMit** is a software and digital-product organization founded by [Milad Dadgar](https://github.com/miladdadgar). We build practical tools across Linux, desktop and mobile applications, networking, automation, WordPress, WooCommerce, and API integrations.
+Building practical software across **Linux, networking, automation, WordPress, WooCommerce, Android and modern web platforms**.
 
+[![Website](https://img.shields.io/badge/milmit.net-Visit_Website-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white)](https://milmit.net)
+[![GitHub](https://img.shields.io/badge/GitHub-MilMit-181717?style=for-the-badge&logo=github)](https://github.com/MilMit)
 [![Founder](https://img.shields.io/badge/Founder-Milad_Dadgar-181717?style=for-the-badge&logo=github)](https://github.com/miladdadgar)
-[![Website](https://img.shields.io/badge/Website-milmit.net-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white)](https://milmit.net)
 
-**English** · [فارسی](#درباره-میل-میت)
+**English** · [فارسی](#فارسی)
 
 </div>
 
-## What we build
+---
 
-| Area | Focus |
-| --- | --- |
-| Linux desktop | Rust, GTK4, Libadwaita, Electron, Ubuntu and GNOME |
-| Android and mobile | Android, Flutter, Dart and Java |
-| Systems and networking | Diagnostics, automation, VPN, IKEv2 and WireGuard |
-| Web and commerce | WordPress, WooCommerce, PHP, JavaScript and API integration |
-| Product engineering | UX, packaging, CI/CD, security and documentation |
+## About MilMit
+
+**MilMit** is an independent software and digital-product organization founded by [Milad Dadgar](https://github.com/miladdadgar).
+
+We focus on products that solve real technical problems: Linux utilities, networking tools, automation systems, desktop and mobile applications, WordPress/WooCommerce extensions, API integrations, and open-source infrastructure.
+
+Our goal is simple: **useful software, clear engineering, and products that can be trusted.**
 
 ## Featured projects
 
@@ -29,65 +30,134 @@
 <tr>
 <td width="50%" valign="top">
 
-### [LinuxCare](https://github.com/MilMit/LinuxCare-App)
+### 🩺 [LinuxCare](https://github.com/MilMit/LinuxCare-App)
 
-A safety-first Linux maintenance, diagnostics, health-intelligence, and GNOME-integration application built natively with Rust, GTK4, and Libadwaita.
+Native Linux maintenance and diagnostics application built with **Rust, GTK4 and Libadwaita**.
+
+Designed around safe system inspection, health information, maintenance workflows and GNOME integration.
 
 </td>
 <td width="50%" valign="top">
 
-### [ChatDesk Linux](https://github.com/MilMit/chatdesk-linux)
+### 💬 [ChatDesk Linux](https://github.com/MilMit/chatdesk-linux)
 
-An unofficial ChatGPT desktop application for Linux with isolated profiles, native workflows, Quick Capture, workspaces, diagnostics, and privacy-aware features.
+Desktop workspace for ChatGPT on Linux with isolated profiles, quick capture, workspaces, diagnostics and privacy-focused desktop workflows.
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### [IKEv2 Linux for Surfshark](https://github.com/MilMit/ikev2-linux-for-surfshark)
+### 🌐 [ModemDeck](https://github.com/MilMit/modemdeck-linux)
 
-An unofficial Ubuntu-first IKEv2 client project using StrongSwan, secure secret storage, dynamic endpoint discovery, and real connection testing.
+Linux desktop tooling for modem and network management, designed around a clean native experience and practical connection controls.
 
 </td>
 <td width="50%" valign="top">
 
-### [NordVPN WireGuard Extractor](https://github.com/MilMit/nordvpn-wireguard-extractor)
+### 🔐 [IKEv2 Linux for Surfshark](https://github.com/MilMit/ikev2-linux-for-surfshark)
 
-A lightweight Linux utility for extracting NordLynx/WireGuard configurations and generating mobile-friendly QR codes.
+Ubuntu-focused IKEv2 client project using **StrongSwan**, secure credential handling, endpoint discovery and real connection testing.
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### ⚡ [Mesora](https://github.com/MilMit/mesora-wordpress-live-chat)
+
+WordPress live-chat and messaging integration focused on fast pre-sale communication and Telegram-based support workflows.
+
+</td>
+<td width="50%" valign="top">
+
+### 🛒 [TeleNexa](https://github.com/MilMit/telenexa-commerce-for-telegram)
+
+Commerce tooling designed to connect **WooCommerce and Telegram**, bringing store and sales workflows into Telegram-based experiences.
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 📡 [NordVPN WireGuard Extractor](https://github.com/MilMit/nordvpn-wireguard-extractor)
+
+Lightweight Linux utility for extracting NordLynx/WireGuard configuration data and generating mobile-friendly QR codes.
+
+</td>
+<td width="50%" valign="top">
+
+### 📱 [AdvanceGram](https://github.com/MilMit/AdvanceGram)
+
+An experimental Telegram-focused Android project maintained as part of MilMit's mobile application research and development work.
 
 </td>
 </tr>
 </table>
 
-## How we work
+## What we build
 
-- We keep security and privilege boundaries explicit and reviewable.
-- We avoid claiming capabilities that the software cannot prove.
-- We prefer reversible maintenance actions wherever reversal is technically real.
-- We treat release verification, documentation, and privacy as product features.
-- We welcome reproducible bug reports and responsible technical discussion.
+| Area | Technologies & focus |
+| --- | --- |
+| **Linux & Desktop** | Rust, GTK4, Libadwaita, Electron, Ubuntu, GNOME |
+| **Mobile** | Android, Flutter, Dart, Java |
+| **Networking** | VPN, IKEv2, WireGuard, diagnostics, connectivity tools |
+| **WordPress & Commerce** | WordPress, WooCommerce, PHP, plugins, integrations |
+| **Automation** | Telegram integrations, APIs, bots, workflow automation |
+| **Product Engineering** | UX, security, packaging, CI/CD, release engineering |
+
+## Engineering principles
+
+- Build features that solve real problems instead of inflating feature lists.
+- Keep security boundaries and privileged operations explicit.
+- Prefer reversible and inspectable system operations.
+- Verify functionality instead of claiming behavior the software cannot prove.
+- Treat documentation, privacy and release quality as part of the product.
+- Keep open-source projects understandable enough for contributors to inspect and improve.
+
+## Open source
+
+We publish selected MilMit projects publicly so developers can inspect the implementation, report reproducible issues, contribute improvements and reuse ideas responsibly.
+
+If you find a bug, the most useful report includes:
+
+- operating system / environment
+- exact steps to reproduce
+- expected behavior
+- actual behavior
+- relevant logs with secrets removed
 
 ## Founder
 
-MilMit was founded by **[Milad Dadgar](https://github.com/miladdadgar)**, a software developer with approximately 13 years of programming experience and a member of the Google Developer Program.
+MilMit was founded by **[Milad Dadgar](https://github.com/miladdadgar)**, a software developer with approximately 13 years of programming experience.
 
-His work also includes biomedical research published in *Molecular Biology Reports*: [Springer DOI](https://doi.org/10.1007/s11033-026-11566-8) · [PubMed](https://pubmed.ncbi.nlm.nih.gov/41774233/).
+His work spans software engineering, Linux tooling, networking, web platforms and biomedical research.
 
-## درباره میل‌میت
+Research publication:
 
-**MilMit | میل‌میت** یک مجموعه توسعه نرم‌افزار و محصولات دیجیتال است که توسط **[میلاد دادگر](https://github.com/miladdadgar)** تأسیس شده است.
+- [Molecular Biology Reports — Springer](https://doi.org/10.1007/s11033-026-11566-8)
+- [PubMed](https://pubmed.ncbi.nlm.nih.gov/41774233/)
 
-حوزه‌های فعالیت ما شامل توسعه نرم‌افزارهای Linux، برنامه‌های Android و Flutter، Java، ابزارهای دسکتاپ و شبکه، اتوماسیون، WordPress، WooCommerce و یکپارچه‌سازی API است.
+## فارسی
+
+**MilMit | میل‌میت** یک مجموعه مستقل توسعه نرم‌افزار و محصولات دیجیتال است که توسط **[میلاد دادگر](https://github.com/miladdadgar)** تأسیس شده است.
+
+تمرکز ما روی ساخت ابزارهای کاربردی و قابل اتکا در حوزه‌های **Linux، شبکه و VPN، اتوماسیون، اپلیکیشن‌های دسکتاپ و موبایل، WordPress، WooCommerce و یکپارچه‌سازی API** است.
+
+بخشی از پروژه‌های MilMit به‌صورت متن‌باز منتشر می‌شوند تا توسعه‌دهندگان بتوانند کد را بررسی کنند، مشکلات را گزارش دهند و در توسعه پروژه‌ها مشارکت داشته باشند.
 
 ## Connect
 
-- **Founder:** [Milad Dadgar](https://github.com/miladdadgar)
-- **Website:** [milmit.net](https://milmit.net)
-- **Projects:** [github.com/MilMit](https://github.com/MilMit)
+- 🌐 **Website:** [milmit.net](https://milmit.net)
+- 💻 **GitHub:** [github.com/MilMit](https://github.com/MilMit)
+- 👤 **Founder:** [Milad Dadgar](https://github.com/miladdadgar)
 
 ---
 
 <div align="center">
-  <sub>MilMit · Building practical software with honest engineering</sub>
+
+### Build useful things. Keep the engineering honest.
+
+<sub>MilMit · Software, open technology & digital products</sub>
+
 </div>
