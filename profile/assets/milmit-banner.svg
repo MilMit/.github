@@ -1,0 +1,43 @@
+<svg width="1400" height="420" viewBox="0 0 1400 420" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1400" y2="420" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#090C14"/>
+      <stop offset="0.5" stop-color="#111827"/>
+      <stop offset="1" stop-color="#0B1220"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="300" y1="80" x2="1100" y2="340" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#5EEAD4"/>
+      <stop offset="0.5" stop-color="#60A5FA"/>
+      <stop offset="1" stop-color="#A78BFA"/>
+    </linearGradient>
+    <filter id="glow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="22"/>
+    </filter>
+  </defs>
+
+  <rect width="1400" height="420" rx="32" fill="url(#bg)"/>
+  <circle cx="1180" cy="105" r="150" fill="#2563EB" opacity="0.18" filter="url(#glow)"/>
+  <circle cx="210" cy="340" r="145" fill="#14B8A6" opacity="0.12" filter="url(#glow)"/>
+
+  <g opacity="0.14" stroke="#93C5FD">
+    <path d="M0 315H1400"/>
+    <path d="M0 355H1400"/>
+    <path d="M1050 0V420"/>
+    <path d="M1110 0V420"/>
+    <path d="M1170 0V420"/>
+  </g>
+
+  <rect x="94" y="78" width="108" height="108" rx="28" fill="#111827" stroke="url(#accent)" stroke-width="3"/>
+  <path d="M125 151V111L148 134L171 111V151" stroke="url(#accent)" stroke-width="10" stroke-linecap="round" stroke-linejoin="round"/>
+
+  <text x="230" y="145" fill="#F8FAFC" font-size="74" font-family="Inter,Segoe UI,Arial,sans-serif" font-weight="800">MilMit</text>
+  <text x="98" y="238" fill="#CBD5E1" font-size="31" font-family="Inter,Segoe UI,Arial,sans-serif" font-weight="500">Open-source software · Linux · Networking · Automation · Commerce</text>
+
+  <rect x="98" y="286" width="255" height="50" rx="25" fill="#0F172A" stroke="#334155"/>
+  <text x="225.5" y="319" text-anchor="middle" fill="#E2E8F0" font-size="20" font-family="Inter,Segoe UI,Arial,sans-serif" font-weight="600">github.com/MilMit</text>
+
+  <rect x="370" y="286" width="215" height="50" rx="25" fill="#0F172A" stroke="#334155"/>
+  <text x="477.5" y="319" text-anchor="middle" fill="#E2E8F0" font-size="20" font-family="Inter,Segoe UI,Arial,sans-serif" font-weight="600">milmit.net</text>
+
+  <text x="1290" y="365" text-anchor="end" fill="url(#accent)" font-size="25" font-family="Inter,Segoe UI,Arial,sans-serif" font-weight="700">BUILD USEFUL THINGS.</text>
+</svg>
