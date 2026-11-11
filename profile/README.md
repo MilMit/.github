@@ -28,32 +28,34 @@ We build practical tools across **Linux, networking, automation, desktop and mob
 
 ## Featured projects
 
+Recent and representative open-source work from the [MilMit GitHub organization](https://github.com/MilMit). Project maturity and release readiness vary; see each repository for the latest status.
+
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### 🩺 [LinuxCare](https://github.com/MilMit/LinuxCare-App)
-Native Linux maintenance and diagnostics built with **Rust, GTK4 and Libadwaita**.
+### 🌐 [ModemDeck](https://github.com/MilMit/modemdeck-linux)
+Native Linux cellular-modem management, signal diagnostics and network controls using GTK4 and ModemManager.
 
 </td>
 <td width="50%" valign="top">
 
 ### 💬 [ChatDesk Linux](https://github.com/MilMit/chatdesk-linux)
-A Linux desktop workspace for ChatGPT with isolated profiles, quick capture, workspaces and privacy-focused workflows.
+Unofficial ChatGPT desktop client for Linux with isolated profiles, quick capture and desktop workflows.
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### 🌐 [ModemDeck](https://github.com/MilMit/modemdeck-linux)
-Desktop tooling for modem and network management with a clean, practical Linux-first experience.
+### 🩺 [LinuxCare](https://github.com/MilMit/LinuxCare-App)
+Rust, GTK4 and Libadwaita-based Linux system maintenance, health insights and diagnostics.
 
 </td>
 <td width="50%" valign="top">
 
-### 🔐 [IKEv2 Linux for Surfshark](https://github.com/MilMit/ikev2-linux-for-surfshark)
-Ubuntu-focused IKEv2 tooling using **StrongSwan**, secure credential handling and real connection testing.
+### 🛒 [TeleNexa](https://github.com/MilMit/telenexa-commerce-for-telegram)
+WooCommerce commerce integration with a Telegram sales bot and Mini App.
 
 </td>
 </tr>
@@ -61,31 +63,39 @@ Ubuntu-focused IKEv2 tooling using **StrongSwan**, secure credential handling an
 <td width="50%" valign="top">
 
 ### ⚡ [Mesora](https://github.com/MilMit/mesora-wordpress-live-chat)
-WordPress live chat and Telegram-based pre-sale support integration.
+WordPress live chat with multi-channel support and WooCommerce pre-sales context.
 
 </td>
 <td width="50%" valign="top">
 
-### 🛒 [TeleNexa](https://github.com/MilMit/telenexa-commerce-for-telegram)
-Commerce tooling for connecting **WooCommerce and Telegram**.
+### 🔐 [IKEv2 Linux for Surfshark](https://github.com/MilMit/ikev2-linux-for-surfshark)
+Unofficial Ubuntu/Linux IKEv2 client using StrongSwan, with connection testing and secure credential storage.
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### 📡 [NordVPN WireGuard Extractor](https://github.com/MilMit/nordvpn-wireguard-extractor)
-Extracts NordLynx/WireGuard configuration data and produces mobile-friendly QR codes.
+### 📲 [Decimen Android](https://github.com/MilMit/decimen-android)
+Native Android sender and receiver for transferring files and text through animated QR codes, without a network.
 
 </td>
 <td width="50%" valign="top">
 
-### 📱 [AdvanceGram](https://github.com/MilMit/AdvanceGram)
-Telegram-focused Android experimentation and mobile application R&D.
+### 🔒 [OTP Animation V10](https://github.com/MilMit/otp-animation-v10)
+Interactive OTP verification UI with animated lock-and-key transitions, keyboard support and paste handling.
 
 </td>
 </tr>
 </table>
+
+### More public repositories
+
+- 📡 **[NordVPN WireGuard Extractor](https://github.com/MilMit/nordvpn-wireguard-extractor)** — Bash tooling for extracting NordLynx/WireGuard configurations and creating QR codes.
+- 📱 **[AdvanceGram](https://github.com/MilMit/AdvanceGram)** — Unofficial Telegram API-based Android messaging app project.
+- 🧪 **[AInstagram](https://github.com/MilMit/AInstagram)** — Small experimental repository with Instagram-related web assets; documentation is not yet available.
+
+See [all public MilMit repositories](https://github.com/orgs/MilMit/repositories).
 
 ## Technology map
 
@@ -136,6 +146,8 @@ His work spans software engineering, Linux tooling, networking, web platforms an
 تمرکز MilMit روی ساخت ابزارهای کاربردی و قابل اتکا در حوزه‌های **Linux، شبکه و VPN، اتوماسیون، اپلیکیشن‌های دسکتاپ و موبایل، WordPress، WooCommerce و یکپارچه‌سازی API** است.
 
 بخشی از پروژه‌های MilMit به‌صورت متن‌باز منتشر می‌شوند تا توسعه‌دهندگان بتوانند کد را بررسی کنند، مشکلات را گزارش دهند و در توسعه پروژه‌ها مشارکت داشته باشند.
+
+**پروژه‌های شاخص:** [ModemDeck](https://github.com/MilMit/modemdeck-linux)، [LinuxCare](https://github.com/MilMit/LinuxCare-App)، [ChatDesk Linux](https://github.com/MilMit/chatdesk-linux)، [TeleNexa](https://github.com/MilMit/telenexa-commerce-for-telegram)، [Mesora](https://github.com/MilMit/mesora-wordpress-live-chat)، [Decimen Android](https://github.com/MilMit/decimen-android) و [OTP Animation V10](https://github.com/MilMit/otp-animation-v10). فهرست کامل مخازن عمومی در [GitHub سازمان MilMit](https://github.com/orgs/MilMit/repositories) قرار دارد.
 
 ## Connect
 
