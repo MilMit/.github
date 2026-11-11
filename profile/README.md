@@ -77,7 +77,7 @@ Recent and representative open-source work from the [MilMit GitHub organization]
 
 - 📡 **[NordVPN WireGuard Extractor](https://github.com/MilMit/nordvpn-wireguard-extractor)** — Bash tooling for extracting NordLynx/WireGuard configurations and creating QR codes.
 - 📱 **[AdvanceGram](https://github.com/MilMit/AdvanceGram)** — Unofficial Telegram API-based Android messaging app project.
-- 🧪 **[AInstagram](https://github.com/MilMit/AInstagram)** — Small experimental repository with Instagram-related web assets; documentation is not yet available.
+- 🧪 **[AInstagram](https://github.com/MilMit/AInstagram)** — Legacy Instagram-related version and data files; no published app source code or release in this repository.
 
 See [all public MilMit repositories](https://github.com/orgs/MilMit/repositories).
 
