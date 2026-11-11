@@ -33,58 +33,42 @@ Recent and representative open-source work from the [MilMit GitHub organization]
 <table>
 <tr>
 <td width="50%" valign="top">
-
-### 🌐 [ModemDeck](https://github.com/MilMit/modemdeck-linux)
-Native Linux cellular-modem management, signal diagnostics and network controls using GTK4 and ModemManager.
-
+<h3>🌐 <a href="https://github.com/MilMit/modemdeck-linux">ModemDeck</a></h3>
+<p>Native Linux cellular-modem management, signal diagnostics and network controls using GTK4 and ModemManager.</p>
 </td>
 <td width="50%" valign="top">
-
-### 💬 [ChatDesk Linux](https://github.com/MilMit/chatdesk-linux)
-Unofficial ChatGPT desktop client for Linux with isolated profiles, quick capture and desktop workflows.
-
+<h3>💬 <a href="https://github.com/MilMit/chatdesk-linux">ChatDesk Linux</a></h3>
+<p>Unofficial ChatGPT desktop client for Linux with isolated profiles, quick capture and desktop workflows.</p>
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
-
-### 🩺 [LinuxCare](https://github.com/MilMit/LinuxCare-App)
-Rust, GTK4 and Libadwaita-based Linux system maintenance, health insights and diagnostics.
-
+<h3>🩺 <a href="https://github.com/MilMit/LinuxCare-App">LinuxCare</a></h3>
+<p>Rust, GTK4 and Libadwaita-based Linux system maintenance, health insights and diagnostics.</p>
 </td>
 <td width="50%" valign="top">
-
-### 🛒 [TeleNexa](https://github.com/MilMit/telenexa-commerce-for-telegram)
-WooCommerce commerce integration with a Telegram sales bot and Mini App.
-
+<h3>🛒 <a href="https://github.com/MilMit/telenexa-commerce-for-telegram">TeleNexa</a></h3>
+<p>WooCommerce commerce integration with a Telegram sales bot and Mini App.</p>
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
-
-### ⚡ [Mesora](https://github.com/MilMit/mesora-wordpress-live-chat)
-WordPress live chat with multi-channel support and WooCommerce pre-sales context.
-
+<h3>⚡ <a href="https://github.com/MilMit/mesora-wordpress-live-chat">Mesora</a></h3>
+<p>WordPress live chat with multi-channel support and WooCommerce pre-sales context.</p>
 </td>
 <td width="50%" valign="top">
-
-### 🔐 [IKEv2 Linux for Surfshark](https://github.com/MilMit/ikev2-linux-for-surfshark)
-Unofficial Ubuntu/Linux IKEv2 client using StrongSwan, with connection testing and secure credential storage.
-
+<h3>🔐 <a href="https://github.com/MilMit/ikev2-linux-for-surfshark">IKEv2 Linux for Surfshark</a></h3>
+<p>Unofficial Ubuntu/Linux IKEv2 client using StrongSwan, with connection testing and secure credential storage.</p>
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
-
-### 📲 [Decimen Android](https://github.com/MilMit/decimen-android)
-Native Android sender and receiver for transferring files and text through animated QR codes, without a network.
-
+<h3>📲 <a href="https://github.com/MilMit/decimen-android">Decimen Android</a></h3>
+<p>Native Android sender and receiver for transferring files and text through animated QR codes, without a network.</p>
 </td>
 <td width="50%" valign="top">
-
-### 🔒 [OTP Animation V10](https://github.com/MilMit/otp-animation-v10)
-Interactive OTP verification UI with animated lock-and-key transitions, keyboard support and paste handling.
-
+<h3>🔒 <a href="https://github.com/MilMit/otp-animation-v10">OTP Animation V10</a></h3>
+<p>Interactive OTP verification UI with animated lock-and-key transitions, keyboard support and paste handling.</p>
 </td>
 </tr>
 </table>
