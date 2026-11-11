@@ -4,6 +4,10 @@
 
 <br/>
 
+<h1>MilMit — Official GitHub Organization</h1>
+
+<p>Open-source software for Linux, networking, automation, Android, WordPress and WooCommerce.</p>
+
 [![Website](https://img.shields.io/badge/Website-milmit.net-111827?style=for-the-badge&logo=googlechrome&logoColor=white)](https://milmit.net)
 [![GitHub](https://img.shields.io/badge/GitHub-MilMit-111827?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MilMit)
 [![Founder](https://img.shields.io/badge/Founder-Milad_Dadgar-111827?style=for-the-badge&logo=github&logoColor=white)](https://github.com/miladdadgar)
@@ -16,7 +20,7 @@
 
 ## Who we are
 
-**MilMit** is an independent software and digital-product organization founded by [Milad Dadgar](https://github.com/miladdadgar).
+**MilMit** is an independent software and digital-product organization founded by [Milad Dadgar](https://github.com/miladdadgar). This is the [official MilMit GitHub organization](https://github.com/MilMit), where our public source code, project documentation and releases are maintained.
 
 We build practical tools across **Linux, networking, automation, desktop and mobile apps, WordPress, WooCommerce and API integrations**.
 
@@ -98,15 +102,9 @@ Telegram-focused Android experimentation and mobile application R&D.
 | **Automation** | Telegram, APIs, bots and workflow automation |
 | **Product Engineering** | UX, security, packaging, CI/CD and release engineering |
 
-## GitHub activity
+## Explore MilMit on GitHub
 
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=MilMit&show_icons=true&hide_border=true&rank_icon=github&bg_color=00000000&title_color=60A5FA&text_color=94A3B8&icon_color=5EEAD4" height="165" alt="MilMit GitHub stats" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MilMit&layout=compact&hide_border=true&bg_color=00000000&title_color=60A5FA&text_color=94A3B8" height="165" alt="MilMit most used languages" />
-
-</div>
+Browse [all MilMit public repositories](https://github.com/orgs/MilMit/repositories) for source code, documentation, issues and available releases. The [MilMit organization page](https://github.com/MilMit) is the official GitHub home for these projects.
 
 ## Engineering principles
 
